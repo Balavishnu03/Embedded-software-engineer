@@ -5,7 +5,7 @@
 int main(void)
 {
     VehicleData vehicle = {
-        105.0f,
+        90.0f,
         12.5f,
         2500,
         60
